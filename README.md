@@ -1,1 +1,1 @@
-# motion_constrained_flexible_joint_manipulator
+# motion_constrained_flexible_joint_manipulator using udwadia kalaba formulation
